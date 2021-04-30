@@ -1,3 +1,0 @@
-[submodule "tensorflow/contrib"]
-	path = tensorflow/contrib
-	url = git@github.com:rtmy/tensorflow_contrib
